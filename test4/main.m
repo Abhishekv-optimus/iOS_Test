@@ -3,7 +3,7 @@
 //  test4
 //
 //  Created by Optimus on 11/21/12.
-//  Copyright (c) 2012 __Test__. All rights reserved.
+//  Copyright (c) 2012 __Testing__. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
